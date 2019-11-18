@@ -1,4 +1,4 @@
-class ChattyStudent
+class ChattyStudent < Student
   def hello
     "Hey there! I'm so excited to learn stuff.\n
     How are you doing today? I'm okay, but I'm kind of tired. 
